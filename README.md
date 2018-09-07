@@ -1,0 +1,2 @@
+# artifacts
+Aplatanao Maven Artifacts
